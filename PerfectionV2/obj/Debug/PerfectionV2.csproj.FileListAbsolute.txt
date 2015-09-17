@@ -1,0 +1,17 @@
+c:\users\byron\documents\visual studio 2013\Projects\PerfectionV2\PerfectionV2\bin\Debug\PerfectionV2.exe.config
+c:\users\byron\documents\visual studio 2013\Projects\PerfectionV2\PerfectionV2\obj\Debug\PerfectionV2.csprojResolveAssemblyReference.cache
+c:\users\byron\documents\visual studio 2013\Projects\PerfectionV2\PerfectionV2\obj\Debug\PerfectionV2.Properties.Resources.resources
+c:\users\byron\documents\visual studio 2013\Projects\PerfectionV2\PerfectionV2\obj\Debug\PerfectionV2.csproj.GenerateResource.Cache
+c:\users\byron\documents\visual studio 2013\Projects\PerfectionV2\PerfectionV2\bin\Debug\PerfectionV2.exe
+c:\users\byron\documents\visual studio 2013\Projects\PerfectionV2\PerfectionV2\bin\Debug\PerfectionV2.pdb
+c:\users\byron\documents\visual studio 2013\Projects\PerfectionV2\PerfectionV2\obj\Debug\PerfectionV2.exe
+c:\users\byron\documents\visual studio 2013\Projects\PerfectionV2\PerfectionV2\obj\Debug\PerfectionV2.pdb
+C:\Users\Byron\documents\visual studio 2013\Projects\PerfectionV2\PerfectionV2\obj\Debug\PerfectionV2.PerfectionMain.resources
+C:\Users\Byron\documents\visual studio 2013\Projects\PerfectionV2\PerfectionV2\obj\Debug\PerfectionV2.createProfileForm.resources
+C:\Users\Byron\documents\visual studio 2013\Projects\PerfectionV2\PerfectionV2\obj\Debug\PerfectionV2.loadProfileForm.resources
+C:\Users\Byron\documents\visual studio 2013\Projects\PerfectionV2\PerfectionV2\obj\Debug\PerfectionV2.addGoalForm.resources
+C:\Users\Byron\documents\visual studio 2013\Projects\PerfectionV2\PerfectionV2\obj\Debug\PerfectionV2.completeGoalForm.resources
+C:\Users\Byron\documents\visual studio 2013\Projects\PerfectionV2\PerfectionV2\obj\Debug\PerfectionV2.removeGoalForm.resources
+C:\Users\Byron\Documents\Visual Studio 2013\Projects\Semester1\PerfectionV2\PerfectionV2\bin\Debug\PerfectionV2.exe.config
+C:\Users\Byron\Documents\Visual Studio 2013\Projects\Semester1\PerfectionV2\PerfectionV2\obj\Debug\PerfectionV2.exe
+C:\Users\Byron\Documents\Visual Studio 2013\Projects\Semester1\PerfectionV2\PerfectionV2\obj\Debug\PerfectionV2.pdb
